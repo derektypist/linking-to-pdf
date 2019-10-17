@@ -48,3 +48,9 @@ Any changes, use the command git push in the terminal window.
 ### Content
 
 Font Roboto taken from fonts.google.com.  Fallbacks are available.  It would use Arial, Verdana or other sans-serif font.
+
+### Media
+
+* alkanes.pdf
+* halogens-and-gases.pdf
+
