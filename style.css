@@ -1,0 +1,27 @@
+/* Body */
+
+body {
+    font-family: "Roboto", Arial, Verdana, sans-serif;
+}
+
+/* Heading */
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+/* Paragraph */
+p {
+    color: purple;
+}
+
+/* List Items */
+li a {
+    text-decoration: none;
+    color: green;
+}
+
+li a:hover {
+    text-decoration: none;
+    color: orange;
+}
